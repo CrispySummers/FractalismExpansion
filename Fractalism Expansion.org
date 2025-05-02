@@ -1,0 +1,44 @@
+#+title: Fractalism Expansion
+#+FILETAGS: :work:
+* TODO "Fractalism Expansion"
+:PROPERTIES:
+:ORDERED:  t
+:END:
+** TODO plan "Fractalism Expansion" [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO brainstorm ideas for "Fractalism Expansion" using the questions :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** questions
+- why am I doing this project?
+- what is the objective?
+- what do I already know about the project?
+- what don't I know that I need to find out?
+- where can I get relevant insights for this project?
+*** TODO search the notes for relevant ideas for "Fractalism Expansion" :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO consolidate the basket for "Fractalism Expansion" into a plan outline :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+*** TODO write out all of the components of the plan outline of "Fractalism Expansion" :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+*** TODO sketch out tasks for "Fractalism Expansion" :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+** TODO finish "Fractalism Expansion" [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO write a report of how well the project went :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
