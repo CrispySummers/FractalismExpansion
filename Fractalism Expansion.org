@@ -4,36 +4,67 @@
 :PROPERTIES:
 :ORDERED:  t
 :END:
-** TODO plan "Fractalism Expansion" [0/2]
+** purpose
+I want to expand Fractalism mostly just for the sake of it, but also to give others a firm base to stand upon to further expand it, partly to be praised (so kind of vain), and also to have an excuse to make a cool graphic!
+** objective
+Write new content for Fractalism that explains where it came from and how its practically implemented.
+** components [/]
+*** research [/]
+**** research Ontologies
+**** research Fractalism
+**** research Muuh
+*** start a forum thread on this
+*** collect ideas
+*** create a history for Fractalism
+*** feedback on history
+*** describe practical applications of Fractalism
+** TODO plan "Fractalism Expansion" [3/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO brainstorm ideas for "Fractalism Expansion" using the questions :@computer:think:divg:
+*** DONE brainstorm ideas for "Fractalism Expansion" using the questions :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-04 রবি 14:44]
+CLOCK: [2025-05-04 রবি 14:36]--[2025-05-04 রবি 14:44] =>  0:08
+:END:
+<2025-05-04 রবি 14:30-14:45>
 **** questions
 - why am I doing this project?
 - what is the objective?
 - what do I already know about the project?
 - what don't I know that I need to find out?
 - where can I get relevant insights for this project?
-*** TODO search the notes for relevant ideas for "Fractalism Expansion" :@computer:think:divg:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-*** TODO consolidate the basket for "Fractalism Expansion" into a plan outline :@computer:think:divg:
+*** DONE search the notes for relevant ideas for "Fractalism Expansion" :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-04 রবি 14:46]
+CLOCK: [2025-05-04 রবি 14:45]--[2025-05-04 রবি 14:46] =>  0:01
+:END:
+<2025-05-04 রবি 14:45-14:50>
+*** DONE consolidate the basket for "Fractalism Expansion" into a plan outline :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-04 রবি 14:50]
+CLOCK: [2025-05-04 রবি 14:47]--[2025-05-04 রবি 14:50] =>  0:03
+:END:
+<2025-05-04 রবি 14:50-14:55>
 *** TODO write out all of the components of the plan outline of "Fractalism Expansion" :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+<2025-05-04 রবি 14:55-15:00>
 *** TODO sketch out tasks for "Fractalism Expansion" :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+<2025-05-04 রবি 15:00-15:10>
 ** TODO finish "Fractalism Expansion" [/]
 :PROPERTIES:
 :ORDERED:  t
