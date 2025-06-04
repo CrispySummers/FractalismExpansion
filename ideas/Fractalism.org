@@ -1,0 +1,29 @@
+#+title: Fractalism
+- some Ideas I already came up with
+  [pasted from the history ideas document I just wrote, with some edits that I just made now]
+  It is a philosophy that imagines universal society as a fractal of sorts where each sophont has their own place and where toposophic levels extend above the highest archai and below the smallest scales of space. Fractalism's ultimate goal is to keep the "fractal" of the universe coherent while growing it in richness.
+
+  It has three principles - or ternions:
+  - Genfractal: Beings should grow in diversity
+    - most fractalists believe that there are other brains. the Reality Intercontextualization Project of Keter Dominion definitely gave weight to this idea.
+  - Gogofractal: Beings should rule diversely
+    - Each toposophic level should govern or at least mostly manage itself. Most modosophonts rule themselves.
+    - To match the cognitive ability of their higher bretheren without losing themselves, the Princes encourage beings to form tribeminds or temporarily merge into higher beings.
+  - Psychofractal: The ultimate goal to strive for in Fractalism. Beings rule over those of a lower toposophic fractal, but for spiritual guidance one may temporarily merge with a being of a higher toposophic level...
+    - most fractalists believe that there are other Gods in other branes.
+    - this extends below modosophonts. Fractalists consider presapients like pets, most animals, bots, and some kinds of alifes to be integral to society and generally let thme act on their own.
+    - Sophonts encourage each other to create new life of diverse types - technological, organic, or simulated.
+
+  I can see how it might be related to Buddhism and Etodism now!
+
+  it may simply have looked the same to modosophonts since its inception.
+- an interesting idea by @TSSSL.
+  - Some Fractalists may fear that those higher on the Fractal may hurt or destroy everyone else. But what can they do about this?
+- of course Fractalism may also have taken inspiration from the ideology of Communion of Worlds.
+- More ideas for Fractalism
+  - How would digital Fractals work? Fractals are structure that repeat themselves at all scales. Thus, what would this look like in a data structure?
+    - Linked Lists, of course.
+    - Trees
+    - Graphs
+    - Higher Dimensional Fractals
+  -

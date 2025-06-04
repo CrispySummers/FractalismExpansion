@@ -8,9 +8,12 @@
 I want to expand Fractalism mostly just for the sake of it, but also to give others a firm base to stand upon to further expand it, partly to be praised (so kind of vain), and also to have an excuse to make a cool graphic!
 ** objective
 Write new content for Fractalism that explains where it came from and how its practically implemented.
-** TODO plan "Fractalism Expansion" [5/5]
+** DONE plan "Fractalism Expansion" [0/0]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-04 রবি 15:03]
 :END:
 *** DONE brainstorm ideas for "Fractalism Expansion" using the questions :@computer:think:divg:
 :PROPERTIES:
@@ -63,196 +66,318 @@ CLOCK: [2025-05-04 রবি 14:50]--[2025-05-04 রবি 14:54] =>  0:04
 CLOCK: [2025-05-04 রবি 14:56]--[2025-05-04 রবি 15:03] =>  0:07
 :END:
 <2025-05-04 রবি 15:00-15:10>
-** TODO components [0/5]
+** TODO components [1/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO research [0/3]
-**** TODO research three Ontologies [0/1]
-***** TODO look online for and take notes on three OA Ontologies :@computer:@internet:
+*** DONE research [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-07 বুধ 14:54]
+:END:
+**** DONE research three Ontologies [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-05 সোম 15:31]
+:END:
+***** DONE look online for and take notes on three OA Ontologies :@computer:@internet:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
-**** TODO research Fractalism [0/1]
-***** TODO look online for and take notes on Fractalism :@computer:@internet:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-05 সোম 15:20]
+CLOCK: [2025-05-05 সোম 15:06]--[2025-05-05 সোম 15:20] =>  0:14
+:END:
+<2025-05-05 সোম 15:22-15:37>
+**** DONE research Fractalism [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-05 সোম 15:31]
+:END:
+***** DONE look online for and take notes on Fractalism :@computer:@internet:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
-**** TODO research how Muuh Historifics work [0/1]
-***** TODO look online for and take notes on how Muuh Historifics work :@computer:@internet:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-05 সোম 15:31]
+CLOCK: [2025-05-05 সোম 15:21]--[2025-05-05 সোম 15:31] =>  0:10
+:END:
+<2025-05-05 সোম 15:37-15:52>
+**** DONE research how Muuh Historifics work [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-07 বুধ 14:53]
+:END:
+***** DONE look online for and take notes on how Muuh Historifics work :@computer:@internet:
 :PROPERTIES:
 :EFFORT:   15min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-07 বুধ 14:53]
+CLOCK: [2025-05-07 বুধ 14:45]--[2025-05-07 বুধ 14:53] =>  0:08
+:END:
+<2025-05-07 বুধ 14:45-15:00>
+*** TODO fractalism stuff [0/2]
+**** TODO create a history for Fractalism [4/13]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** DONE origin [0/0]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-08 বৃহঃ 14:38]
+:END:
+****** DONE brainstorm ten origins for Fractalism :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-08 বৃহঃ 14:35]
+CLOCK: [2025-05-08 বৃহঃ 14:27]--[2025-05-08 বৃহঃ 14:35] =>  0:08
+:END:
+<2025-05-08 বৃহঃ 14:30-14:38>
+****** DONE pick an origin for Fractalism :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-08 বৃহঃ 14:37]
+CLOCK: [2025-05-08 বৃহঃ 14:35]--[2025-05-08 বৃহঃ 14:37] =>  0:02
+:END:
+<2025-06-08 রবি 14:38-14:42>
+***** DONE pillars [3/3]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-13 মঙ্গল 15:03]
+:END:
+****** DONE environmental [1/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-08 বৃহঃ 15:23]
+:END:
+******* KILL using the notes on Muuh environmental history, describe how Fractalism would have to adapt :@computer:think:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-08 বৃহঃ 14:38]
+:END:
+<2025-06-08 রবি 14:42-14:50>
+****** DONE economical [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-13 মঙ্গল 15:02]
+:END:
+******* DONE describe how Fractalism would affect production, imports, and exports :@computer:think:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-13 মঙ্গল 15:02]
+CLOCK: [2025-05-13 মঙ্গল 14:59]--[2025-05-13 মঙ্গল 15:02] =>  0:03
+:END:
+<2025-05-13 মঙ্গল 15:00-15:10>
+******* KILL describe how changes in Muuh economical history affected Fractalism :@computer:think:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-13 মঙ্গল 15:02]
+:END:
+<2025-05-13 মঙ্গল 15:10-15:20>
+****** DONE political [1/1]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-13 মঙ্গল 15:03]
+:END:
+******* KILL describe how Fractalism affected Muuh governance, and how it affected Fractalism :@computer:think:solve:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-13 মঙ্গল 15:03]
+CLOCK: [2025-05-13 মঙ্গল 15:02]--[2025-05-13 মঙ্গল 15:03] =>  0:01
+:END:
+<2025-05-13 মঙ্গল 15:20-15:30>
+***** DONE feedback on history (1) [0/0]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-01 রবি 18:01]
+:END:
+****** DONE post my proposed history :@internet:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-28 বুধ 14:33]
+CLOCK: [2025-05-28 বুধ 14:30]--[2025-05-28 বুধ 14:33] =>  0:03
+- State "DONE"       from "TODO"       [2025-05-13 মঙ্গল 15:22]
+CLOCK: [2025-05-13 মঙ্গল 15:16]--[2025-05-13 মঙ্গল 15:22] =>  0:06
+:END:
+<2025-05-28 বুধ 14:30-14:32>
+****** DONE wait for three pieces of feedback on history :@study:think:
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-06-01 রবি 18:01]
+:END:
+***** DONE brainstorm a 20 step history for Fractalism :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-04 বুধ 14:38]
+CLOCK: [2025-06-04 বুধ 14:29]--[2025-06-04 বুধ 14:38] =>  0:09
+:END:
+<2025-06-04 বুধ 14:30-14:38>
+***** TODO revise history (1) [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO read and put EDIT comments on the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+<2025-06-04 বুধ 14:38-14:46>
+****** TODO put EDIT comments on the history from feedback :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+<2025-06-04 বুধ 14:46-14:54>
+****** TODO edit the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+<2025-06-04 বুধ 14:54-15:02>
+***** TODO feedback on history (2) [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO post my proposed history :@internet:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+<2025-06-04 বুধ 15:02-15:04>
+****** WAIT wait for three pieces of feedback on history :@study:think:
+***** TODO revise history (2) [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO read and put EDIT comments on the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO put EDIT comments on the history from feedback :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO edit the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO feedback on history (3) [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO post my proposed history :@internet:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+****** WAIT wait for three pieces of feedback on history :@study:think:
+***** TODO revise history (3) [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO read and put EDIT comments on the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO put EDIT comments on the history from feedback :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO edit the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO feedback on history (4) [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO post my proposed history :@internet:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+****** WAIT wait for three pieces of feedback on history :@study:think:
+***** TODO revise history (4) [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO read and put EDIT comments on the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO put EDIT comments on the history from feedback :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO edit the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO feedback on history (5) [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO post my proposed history :@internet:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+****** WAIT wait for three pieces of feedback on history :@study:think:
+***** TODO revise history (5) [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+****** TODO read and put EDIT comments on the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO put EDIT comments on the history from feedback :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+****** TODO edit the history :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO flesh out Fractalism's principles [1/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** DONE brainstorm what Fractalism's ternions are and how they work :@computer:think:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-04 বুধ 14:48]
+CLOCK: [2025-06-04 বুধ 14:39]--[2025-06-04 বুধ 14:48] =>  0:09
+:END:
+<2025-06-04 বুধ 15:10-15:22>
+***** WAIT get feedback on the Fractalism ternions that I proposed :@computer:think:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+:LOGBOOK:
+- State "WAIT"       from "TODO"       [2025-06-04 বুধ 14:57]
+CLOCK: [2025-06-04 বুধ 14:49]--[2025-06-04 বুধ 14:57] =>  0:08
 :END:
 *** TODO post a post on the OA Forums containing my ideas and with feedback questions :@internet:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
+<2025-05-07 বুধ 15:00-15:03>
 *** WAIT wait for three comments on the thread
 :LOGBOOK:
 - State "WAIT"       from              [2025-05-04 রবি 14:52]
 :END:
-*** TODO create a history for Fractalism [0/4]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-**** TODO origin [0/2]
-***** TODO brainstorm ten origins for Fractalism :@computer:think:divg:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO pick an origin for Fractalism :@computer:think:convg:
-:PROPERTIES:
-:EFFORT:   5min
-:END:
-**** TODO pillars [/]
-***** TODO environmental [/]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-****** TODO using the notes on Muuh environmental history, describe how Fractalism would have to adapt :@computer:think:solve:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO economical [0/2]
-****** TODO describe how Fractalism would affect production, imports, and exports :@computer:think:solve:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-****** TODO describe how changes in Muuh economical history affected Fractalism :@computer:think:solve:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO political [0/1]
-****** TODO describe how Fractalism affected Muuh governance, and how it affected Fractalism :@computer:think:solve:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO feedback on history (1) [0/2]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO post my proposed history :@internet:
-:PROPERTIES:
-:EFFORT:   2min
-:END:
-***** WAIT wait for three pieces of feedback on history :@study:think:
-**** TODO revise history (1) [0/3]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO read and put EDIT comments on the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO put EDIT comments on the history from feedback :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO edit the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO feedback on history (2) [0/2]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO post my proposed history :@internet:
-:PROPERTIES:
-:EFFORT:   2min
-:END:
-***** WAIT wait for three pieces of feedback on history :@study:think:
-**** TODO revise history (2) [0/3]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO read and put EDIT comments on the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO put EDIT comments on the history from feedback :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO edit the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO feedback on history (3) [0/2]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO post my proposed history :@internet:
-:PROPERTIES:
-:EFFORT:   2min
-:END:
-***** WAIT wait for three pieces of feedback on history :@study:think:
-**** TODO revise history (3) [0/3]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO read and put EDIT comments on the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO put EDIT comments on the history from feedback :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO edit the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO feedback on history (4) [0/2]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO post my proposed history :@internet:
-:PROPERTIES:
-:EFFORT:   2min
-:END:
-***** WAIT wait for three pieces of feedback on history :@study:think:
-**** TODO revise history (4) [0/3]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO read and put EDIT comments on the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO put EDIT comments on the history from feedback :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO edit the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO feedback on history (5) [0/2]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO post my proposed history :@internet:
-:PROPERTIES:
-:EFFORT:   2min
-:END:
-***** WAIT wait for three pieces of feedback on history :@study:think:
-**** TODO revise history (5) [0/3]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO read and put EDIT comments on the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO put EDIT comments on the history from feedback :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-***** TODO edit the history :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-*** TODO make a nice little image for Fractalism [0/1]
+*** TODO make a nice little image for Fractalism [0/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
