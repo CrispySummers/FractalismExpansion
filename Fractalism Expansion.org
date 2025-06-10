@@ -113,6 +113,20 @@ CLOCK: [2025-05-05 সোম 15:21]--[2025-05-05 সোম 15:31] =>  0:10
 CLOCK: [2025-05-07 বুধ 14:45]--[2025-05-07 বুধ 14:53] =>  0:08
 :END:
 <2025-05-07 বুধ 14:45-15:00>
+*** TODO repair my "Fractalism Expansion" plan [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** why?
+reason
+**** TODO describe what's wrong with my "Fractalism Expansion" plan :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO rearrange the components and tasks (and write new ones) of my "Fractalism Expansion" plan :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 *** TODO fractalism stuff [0/2]
 **** TODO create a history for Fractalism [4/13]
 :PROPERTIES:
@@ -235,17 +249,13 @@ CLOCK: [2025-06-04 বুধ 14:29]--[2025-06-04 বুধ 14:38] =>  0:09
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-04 বুধ 14:38-14:46>
 ****** TODO put EDIT comments on the history from feedback :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-04 বুধ 14:46-14:54>
 ****** TODO edit the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
-:END:
-<2025-06-04 বুধ 14:54-15:02>
 ***** TODO feedback on history (2) [0/2]
 :PROPERTIES:
 :ORDERED:  t
@@ -254,7 +264,6 @@ CLOCK: [2025-06-04 বুধ 14:29]--[2025-06-04 বুধ 14:38] =>  0:09
 :PROPERTIES:
 :EFFORT:   2min
 :END:
-<2025-06-04 বুধ 15:02-15:04>
 ****** WAIT wait for three pieces of feedback on history :@study:think:
 ***** TODO revise history (2) [0/3]
 :PROPERTIES:
