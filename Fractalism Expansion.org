@@ -123,10 +123,15 @@ reason
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+CLOCK: [2025-06-12 বৃহঃ 14:30]
+:END:
+<2025-06-12 বৃহঃ 14:30-14:40>
 **** TODO rearrange the components and tasks (and write new ones) of my "Fractalism Expansion" plan :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-12 বৃহঃ 14:40-14:50>
 *** TODO fractalism stuff [0/2]
 **** TODO create a history for Fractalism [4/13]
 :PROPERTIES:
