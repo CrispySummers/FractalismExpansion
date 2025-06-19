@@ -1,8 +1,11 @@
 #+title: Fractalism Expansion
 #+FILETAGS: :work:
-* TODO "Fractalism Expansion"
+* DONE "Fractalism Expansion" [/]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:33]
 :END:
 ** purpose
 I want to expand Fractalism mostly just for the sake of it, but also to give others a firm base to stand upon to further expand it, partly to be praised (so kind of vain), and also to have an excuse to make a cool graphic!
@@ -66,7 +69,7 @@ CLOCK: [2025-05-04 রবি 14:50]--[2025-05-04 রবি 14:54] =>  0:04
 CLOCK: [2025-05-04 রবি 14:56]--[2025-05-04 রবি 15:03] =>  0:07
 :END:
 <2025-05-04 রবি 15:00-15:10>
-** TODO components [2/6]
+** DONE components [6/6]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -139,8 +142,8 @@ CLOCK: [2025-06-12 বৃহঃ 14:30]--[2025-06-12 বৃহঃ 14:32] =>  0:02
 - State "DONE"       from "TODO"       [2025-06-12 বৃহঃ 14:32]
 :END:
 <2025-06-12 বৃহঃ 14:40-14:50>
-*** TODO fractalism stuff [0/2]
-**** TODO create a history for Fractalism [6/15]
+*** DONE fractalism stuff [2/2]
+**** DONE create a history for Fractalism [15/15]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -272,9 +275,12 @@ CLOCK: [2025-06-15 রবি 14:29]--[2025-06-15 রবি 14:37] =>  0:08
 CLOCK: [2025-06-15 রবি 14:38]--[2025-06-15 রবি 14:43] =>  0:05
 :END:
 <2025-06-15 রবি 14:38-14:46>
-***** TODO revise history (1) [2/2]
+***** DONE revise history (1) [0/0]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:23]
 :END:
 ****** DONE read and put EDIT comments on the history :@computer:think:
 :PROPERTIES:
@@ -294,107 +300,167 @@ CLOCK: [2025-06-15 রবি 14:43]--[2025-06-15 রবি 14:46] =>  0:03
 CLOCK: [2025-06-15 রবি 14:46]--[2025-06-15 রবি 14:48] =>  0:02
 :END:
 <2025-06-15 রবি 14:54-15:02>
-***** TODO feedback on history (2) [0/2]
+***** DONE feedback on history (2) [2/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO post my proposed history :@internet:
+****** DONE post my proposed history :@internet:
 :PROPERTIES:
 :EFFORT:   2min
 :END:
-****** WAIT wait for three pieces of feedback on history :@study:think:
-***** TODO revise history (2) [0/3]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:23]
+:END:
+****** KILL wait for three pieces of feedback on history :@study:think:
+:LOGBOOK:
+- State "KILL"       from "WAIT"       [2025-06-19 Thu 14:23]
+:END:
+***** DONE revise history (2) [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO read and put EDIT comments on the history :@computer:think:
+****** KILL read and put EDIT comments on the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO put EDIT comments on the history from feedback :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:23]
+:END:
+****** KILL put EDIT comments on the history from feedback :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO edit the history :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:23]
+:END:
+****** KILL edit the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-***** TODO feedback on history (3) [0/2]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:23]
+:END:
+***** DONE feedback on history (3) [2/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO post my proposed history :@internet:
+****** KILL post my proposed history :@internet:
 :PROPERTIES:
 :EFFORT:   2min
 :END:
-****** WAIT wait for three pieces of feedback on history :@study:think:
-***** TODO revise history (3) [0/3]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:23]
+:END:
+****** KILL wait for three pieces of feedback on history :@study:think:
+:LOGBOOK:
+- State "KILL"       from "WAIT"       [2025-06-19 Thu 14:24]
+:END:
+***** DONE revise history (3) [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO read and put EDIT comments on the history :@computer:think:
+****** KILL read and put EDIT comments on the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO put EDIT comments on the history from feedback :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL put EDIT comments on the history from feedback :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO edit the history :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL edit the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-***** TODO feedback on history (4) [0/2]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+***** DONE feedback on history (4) [2/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO post my proposed history :@internet:
+****** KILL post my proposed history :@internet:
 :PROPERTIES:
 :EFFORT:   2min
 :END:
-****** WAIT wait for three pieces of feedback on history :@study:think:
-***** TODO revise history (4) [0/3]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL wait for three pieces of feedback on history :@study:think:
+:LOGBOOK:
+- State "KILL"       from "WAIT"       [2025-06-19 Thu 14:24]
+:END:
+***** DONE revise history (4) [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO read and put EDIT comments on the history :@computer:think:
+****** KILL read and put EDIT comments on the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO put EDIT comments on the history from feedback :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL put EDIT comments on the history from feedback :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO edit the history :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL edit the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-***** TODO feedback on history (5) [0/2]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+***** DONE feedback on history (5) [2/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO post my proposed history :@internet:
+****** KILL post my proposed history :@internet:
 :PROPERTIES:
 :EFFORT:   2min
 :END:
-****** WAIT wait for three pieces of feedback on history :@study:think:
-***** TODO revise history (5) [0/3]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL wait for three pieces of feedback on history :@study:think:
+:LOGBOOK:
+- State "KILL"       from "WAIT"       [2025-06-19 Thu 14:24]
+:END:
+***** DONE revise history (5) [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO read and put EDIT comments on the history :@computer:think:
+****** KILL read and put EDIT comments on the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO put EDIT comments on the history from feedback :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL put EDIT comments on the history from feedback :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-****** TODO edit the history :@computer:think:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+****** KILL edit the history :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-**** TODO flesh out Fractalism's principles [1/2]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+**** DONE flesh out Fractalism's principles [2/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -407,44 +473,63 @@ CLOCK: [2025-06-15 রবি 14:46]--[2025-06-15 রবি 14:48] =>  0:02
 CLOCK: [2025-06-04 বুধ 14:39]--[2025-06-04 বুধ 14:48] =>  0:09
 :END:
 <2025-06-04 বুধ 15:10-15:22>
-***** WAIT get feedback on the Fractalism ternions that I proposed :@computer:think:
+***** DONE get feedback on the Fractalism ternions that I proposed :@computer:think:
 :PROPERTIES:
 :EFFORT:   2min
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-06-19 Thu 14:24]
 - State "WAIT"       from "TODO"       [2025-06-04 বুধ 14:57]
 CLOCK: [2025-06-04 বুধ 14:49]--[2025-06-04 বুধ 14:57] =>  0:08
 :END:
-*** TODO post a post on the OA Forums containing my ideas and with feedback questions :@internet:
+*** DONE post a post on the OA Forums containing my ideas and with feedback questions :@internet:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-<2025-05-07 বুধ 15:00-15:03>
-*** WAIT wait for three comments on the thread
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+<2025-05-07 বুধ 15:00-15:03>
+*** DONE wait for three comments on the thread
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-06-19 Thu 14:24]
 - State "WAIT"       from              [2025-05-04 রবি 14:52]
 :END:
-*** TODO make a nice little image for Fractalism [0/3]
+*** DONE make a nice little image for Fractalism [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-**** TODO draw an outline of the Fractalism logo :@computer:think:
+**** DONE draw an outline of the Fractalism logo :@computer:think:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-**** TODO fill the Fractalism logo with color :@computer:think:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+**** DONE fill the Fractalism logo with color :@computer:think:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-**** TODO engrave the Fractalism logo with texture :@computer:think:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+**** DONE engrave the Fractalism logo with texture :@computer:think:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-** TODO finish "Fractalism Expansion" [/]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:24]
+:END:
+** DONE finish "Fractalism Expansion" [1/1]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO write a report of how well the project went :@computer:think:divg:
+*** DONE write a report of how well the project went :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-19 Thu 14:33]
+CLOCK: [2025-06-19 Thu 14:27]--[2025-06-19 Thu 14:33] =>  0:06
+:END:
+<2025-06-19 Thu 14:40-14:50>
