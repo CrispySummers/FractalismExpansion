@@ -1,0 +1,11 @@
+#+title: History First Draft
+- the Perseus Princes lacked a defining ideology after forming
+- the alliance of the then SI:3 Princes fostered the development of an ontology compatible with both Metasoft and Solarian beliefs to unite Metasoft and Solarian sophonts.
+  - Nayadara (back when she was an SI:3) developed Fractalism as an ontology and published it on the Known Net. Its mathematics intrigued many local sophonts.
+  - Eguil may have helped
+- many modosophonts and transapients embraced it
+  - it complemented their beliefs and ultimately replaced them or at least pushed them aside
+  - many modosophonts made artworks on it,
+    - like Bliffoth's Set by Qubert Bliffoth, which was a beautiful noncardinal abstract algebraic set that repeated itself at smaller scales. Also part of per later work, Bliffoth's Abstract Linkers.
+    - Busard, a local virtual, also made stuff.
+  - transapients also embraced it; for example, the S1 Vixn, governer of the obscure colony Lelia, decladed to eir wards that e had embraced Fractalism, and the colony noticably grew in diversity, and many citizens even formed tribeminds.
